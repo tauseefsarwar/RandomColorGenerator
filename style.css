@@ -1,0 +1,14 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} 
+
+.colorDiv{
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
